@@ -1,0 +1,33 @@
+user-management-dashboard/
+││
+├── src/
+│   │
+│   ├── api/
+│   │   └── userService.js
+│   │
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Header.css
+│   │   ├── SearchBar.jsx
+│   │   ├── SearchBar.css
+│   │   ├── FilterPopup.jsx
+│   │   ├── FilterPopup.css
+│   │   ├── UserTable.jsx
+│   │   ├── UserTable.css
+│   │   ├── UserForm.jsx
+│   │   ├── UserForm.css
+│   │   ├── Pagination.jsx
+│   │   ├── Pagination.css
+│   │   ├── ConfirmDelete.jsx
+│   │   └── ConfirmDelete.css
+│   │
+│   ├── utils/
+│   │   └── validators.js
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+│
+├── .gitignore
+├── package.json
+└── README.md
